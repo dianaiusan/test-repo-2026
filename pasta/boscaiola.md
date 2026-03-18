@@ -12,4 +12,6 @@
 
 ## Instructions
 
-TODO: these are missing
+- cook rigatoni
+- fry pancetta, onions, and mushrooms
+- mix all together
