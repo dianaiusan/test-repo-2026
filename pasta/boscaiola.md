@@ -3,13 +3,15 @@
 
 ## Ingredients
 
-- rigatoni
-- pancetta
+- 500g rigatoni
+- 200g pancetta
 - peas
 - mushrooms
-- onions
+- 1 onion
 
 
 ## Instructions
 
-TODO: these are missing
+- cook rigatoni
+- fry pancetta, onions, and mushrooms
+- mix all together
